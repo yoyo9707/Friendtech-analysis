@@ -1,4 +1,3 @@
-<img width="1144" height="435" alt="retain" src="https://github.com/user-attachments/assets/554ad64f-bf87-44c9-899f-51030dc95f6e" /># FriendTech On-Chain Analytics
 This report provides a comprehensive on-chain analysis of the FriendTech platform, focusing on four dimensions:
     i: User Retention Patterns
     ii: New vs Active User Trends
@@ -8,7 +7,6 @@ Overall, our findings reveal a strong head-effect, short-term FOMO-driven user e
 
 User Retention (Cohort Analysis)
 <img width="1144" height="435" alt="retain" src="https://github.com/user-attachments/assets/554ad64f-bf87-44c9-899f-51030dc95f6e" /># FriendTech On-Chain Analytics
-![retention](FriendTech/retention.png)
 All cohorts start at 100% 
 
 Retention rapidly declines in subsequent months across all cohorts.
