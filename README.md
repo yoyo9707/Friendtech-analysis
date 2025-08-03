@@ -7,6 +7,7 @@ This report provides a comprehensive on-chain analysis of the FriendTech platfor
 Overall, our findings reveal a strong head-effect, short-term FOMO-driven user engagement, and a highly fragmented but hype-sensitive market. While early cohorts showed some user stickiness, recent data signals rapid user churn and poor long-term retention. Meanwhile, ETH and share distributions are dominated by a handful of "superstar" accounts, reinforced by nonlinear pricing mechanics.
 
 User Retention (Cohort Analysis)
+<img width="1144" height="435" alt="retain" src="https://github.com/user-attachments/assets/554ad64f-bf87-44c9-899f-51030dc95f6e" /># FriendTech On-Chain Analytics
 ![retention](FriendTech/retention.png)
 All cohorts start at 100% 
 
