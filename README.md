@@ -28,6 +28,7 @@ FriendTech’s retention performance has weakened over time. While early users s
 
 
 ii: User Acquisition & Activity
+
 <img width="770" height="244" alt="new-active-users" src="https://github.com/user-attachments/assets/31c941db-a64f-4fec-8c2c-3deff581c0e2" />
 Between August and October 2023, FriendTech experienced explosive growth. New user numbers spiked dramatically — likely driven by hype from influencers, aggressive marketing, and classic FOMO behavior.
 But the surge didn’t last. While new users poured in, 7-day active user counts dropped just as fast, revealing that most newcomers didn’t stick around. The majority tried the platform once and left.
@@ -37,6 +38,7 @@ FriendTech nailed the viral launch — but failed to build a system that kept us
 
 
 iii: Market Structure: Herfindahl Index (HHI)
+
 <img width="774" height="247" alt="HII-scatter" src="https://github.com/user-attachments/assets/db5edb43-4f0d-4e77-b52d-f33e2256cd10" />
 <img width="771" height="248" alt="HII" src="https://github.com/user-attachments/assets/7d64975a-2ffe-41b7-8fbc-537642ed68c9" />
 With an HHI around 0.0005, FriendTech’s market is about as close as it gets to perfect competition. The trading activity is highly fragmented, with no dominant players and no single trader holding meaningful market share. Even the most active addresses contribute just 1–2% of total volume — it’s a sea of small fish. While there are a few relatively active traders, their influence is minimal. No one’s steering the ship.
@@ -45,6 +47,7 @@ FriendTech operates in an open and competitive environment — fair, but also ch
 
 
 iv: ETH & Share Flow Analysis
+
 <img width="777" height="244" alt="ETH-scatter" src="https://github.com/user-attachments/assets/fd97f562-7cf8-453c-b931-998026d3dbc8" />
 <img width="775" height="243" alt="ETH-bar" src="https://github.com/user-attachments/assets/1faeddb2-d84f-46ad-9533-5cece357cf37" />
 FriendTech’s trading ecosystem reveals a classic pattern of early hype, heavy concentration at the top, and speculative user behavior. While a few subjects dominate ETH inflow and engagement, most users and creators fall into the long tail with minimal impact. This structure, combined with nonlinear pricing and short-term attention cycles, suggests a platform heavily influenced by FOMO rather than sustained value.
