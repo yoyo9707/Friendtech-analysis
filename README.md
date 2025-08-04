@@ -30,6 +30,7 @@ FriendTech’s retention performance has weakened over time. While early users s
 ii: User Acquisition & Activity
 
 <img width="770" height="244" alt="new-active-users" src="https://github.com/user-attachments/assets/31c941db-a64f-4fec-8c2c-3deff581c0e2" />
+
 Between August and October 2023, FriendTech experienced explosive growth. New user numbers spiked dramatically — likely driven by hype from influencers, aggressive marketing, and classic FOMO behavior.
 But the surge didn’t last. While new users poured in, 7-day active user counts dropped just as fast, revealing that most newcomers didn’t stick around. The majority tried the platform once and left.
 After 2023, both new user acquisition and overall engagement fell off a cliff. By mid-2024, the platform was seeing almost no organic growth or sustained user activity.
