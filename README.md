@@ -5,51 +5,36 @@ This report provides a comprehensive on-chain analysis of the FriendTech platfor
     iv: ETH Flow & Share Trading Behavior
 Overall, our findings reveal a strong head-effect, short-term FOMO-driven user engagement, and a highly fragmented but hype-sensitive market. While early cohorts showed some user stickiness, recent data signals rapid user churn and poor long-term retention. Meanwhile, ETH and share distributions are dominated by a handful of "superstar" accounts, reinforced by nonlinear pricing mechanics.
 
-User Retention (Cohort Analysis)
+i: User Retention (Cohort Analysis)
 ![retention](FriendTech/retention.png)
 <img width="1144" height="435" alt="retain" src="https://github.com/user-attachments/assets/554ad64f-bf87-44c9-899f-51030dc95f6e" /># FriendTech On-Chain Analytics
-All cohorts start at 100% 
 
-Retention rapidly declines in subsequent months across all cohorts.
+Overall User Retention Trend
+User retention on FriendTech shows a clear downward trend over time. While all cohorts naturally start at 100% in their first month, the vast majority experience a steep drop-off shortly after. Notably, cohorts from 2023 tend to retain users better than those from 2024 and beyond — suggesting that newer users are less engaged or the product has lost some of its initial appeal.
 
-2023 cohorts show stronger retention than those from 2024 onward — indicating a decline in user quality or engagement over time.
+Early Cohorts (Aug 2023 – Dec 2023)
+August 2023 stands out as relatively strong: 23.6% of users stayed in Month 1, dropping to 13.6% in Month 2 and 7.6% in Month 3. A steady, natural decline.
+September 2023 shows weaker performance right out of the gate, with just 10.3% retention in Month 1.
+November 2023 is unusual — while retention drops in the early months, it jumps back to 10.2% in Month 6, likely due to a campaign or product update that temporarily re-engaged users.
 
-🧪 Cohort Details
-(1) Early Cohorts (2023-08 to 2023-12)
-Aug 2023: 23.6% retained in Month 1, 13.6% in Month 2, 7.6% in Month 3. Gradual decay.
+Mid Cohorts (Jan 2024 – Jun 2024)
+January 2024 saw a surprising 54.2% Month 1 retention — likely the result of a promotion or incentive rather than organic engagement.
+March 2024 is a standout for sustainability: 22.1% → 20.7% → 18.6% over the first three months. This is one of the few cohorts showing consistent user loyalty.
+April to June 2024 dropped off sharply — retention fell below 2% after just one month, signaling weak onboarding or declining interest.
 
-Sep 2023: Lower Month 1 retention (10.3%)—decline starts early.
+Recent Cohorts (Jul 2024 – Jul 2025)
+Retention rates here are extremely poor — most cohorts retain fewer than 3% of users after the first month, and almost none make it to Month 2.
 
-Nov 2023: Shows unusual Month 6 rebound (10.2%) — likely caused by a marketing campaign or product update.
+FriendTech’s retention performance has weakened over time. While early users showed signs of real engagement, most recent cohorts are largely one-and-done. A few spikes in retention appear to be campaign-driven rather than organic. Overall, unless the platform addresses user value and experience, long-term retention will remain a serious challenge.
 
-👉 Insight: Some early users showed healthy behavior, but churn remained high overall.
 
-(2) Mid Cohorts (2024-01 to 2024-06)
-Jan 2024: Spiked at 54.2% in Month 1 — likely artificial due to a one-off incentive.
+ii: User Acquisition & Activity
+![new & active users](FriendTech/new & active users.png)
+Between August and October 2023, FriendTech experienced explosive growth. New user numbers spiked dramatically — likely driven by hype from influencers, aggressive marketing, and classic FOMO behavior.
+But the surge didn’t last. While new users poured in, 7-day active user counts dropped just as fast, revealing that most newcomers didn’t stick around. The majority tried the platform once and left.
+After 2023, both new user acquisition and overall engagement fell off a cliff. By mid-2024, the platform was seeing almost no organic growth or sustained user activity.
 
-Mar 2024: Most sustainable — 22.1% → 20.7% → 18.6%.
-
-Apr to Jun 2024: Retention drops <2% after Month 1.
-
-👉 Insight: Only the March cohort shows organic retention; others are event-driven or very weak.
-
-(3) Recent Cohorts (2024-07 to 2025-07)
-Most cohorts have <3% Month 1 retention, almost 0% by Month 2.
-
-Example: Sept 2024 – 7.6% → 2.2% → 0.5%.
-
-👉 Insight: Recent users are mostly one-time participants, showing extremely low loyalty or engagement.
-
-2️⃣ User Acquisition & Activity
-
-🚀 Viral Growth Followed by Collapse
-Aug–Oct 2023 saw massive spikes in new users — likely driven by marketing, influencer hype, and FOMO.
-
-However, 7-day active users dropped sharply after peaks, confirming most users did not convert into loyal participants.
-
-Post-2023, both new and active users dwindled toward zero.
-
-👉 Insight: FriendTech lacked retention mechanics to sustain viral growth. User base declined rapidly after early hype cycles.
+FriendTech nailed the viral launch — but failed to build a system that kept users engaged. Without strong retention mechanics, the initial hype faded fast, taking the user base down with it.
 
 3️⃣ Market Structure: Herfindahl Index (HHI)
 HHI ≈ 0.0005 — extremely close to perfect competition.
