@@ -28,7 +28,7 @@ FriendTech’s retention performance has weakened over time. While early users s
 
 
 ii: User Acquisition & Activity
-![new & active users](FriendTech/new & active users.png)
+![new & active users](./FriendTech/new & active users.png)
 Between August and October 2023, FriendTech experienced explosive growth. New user numbers spiked dramatically — likely driven by hype from influencers, aggressive marketing, and classic FOMO behavior.
 But the surge didn’t last. While new users poured in, 7-day active user counts dropped just as fast, revealing that most newcomers didn’t stick around. The majority tried the platform once and left.
 After 2023, both new user acquisition and overall engagement fell off a cliff. By mid-2024, the platform was seeing almost no organic growth or sustained user activity.
@@ -37,16 +37,16 @@ FriendTech nailed the viral launch — but failed to build a system that kept us
 
 
 iii: Market Structure: Herfindahl Index (HHI)
-![HII](FriendTech/HII.png)
-![HII-scatter](FriendTech/HII-scatter.png)
+![HII](./FriendTech/HII.png)
+![HII-scatter](./FriendTech/HII-scatter.png)
 With an HHI around 0.0005, FriendTech’s market is about as close as it gets to perfect competition. The trading activity is highly fragmented, with no dominant players and no single trader holding meaningful market share. Even the most active addresses contribute just 1–2% of total volume — it’s a sea of small fish. While there are a few relatively active traders, their influence is minimal. No one’s steering the ship.
 
 FriendTech operates in an open and competitive environment — fair, but also chaotic. There’s no central control, but hype cycles and short-term sentiment still drive much of the activity.
 
 
 iv: ETH & Share Flow Analysis
-![ETH-bar](FriendTech/ETH-bar.png)
-![ETH-scatter](FriendTech/ETH-scatter.png)
+![ETH-bar](./FriendTech/ETH-bar.png)
+![ETH-scatter](./FriendTech/ETH-scatter.png)
 FriendTech’s trading ecosystem reveals a classic pattern of early hype, heavy concentration at the top, and speculative user behavior. While a few subjects dominate ETH inflow and engagement, most users and creators fall into the long tail with minimal impact. This structure, combined with nonlinear pricing and short-term attention cycles, suggests a platform heavily influenced by FOMO rather than sustained value.
 The top 2 subjects alone attracted over 36 ETH in net inflows, while the 10th-ranked subject only pulled in around 4 ETH — a steep drop that highlights just how top-heavy the platform is. This is a clear case of the “influencer economy” in action: a few high-profile accounts capture most of the value and attention.
 Scatter plot data shows a strong upward trend — as net shares bought increase, so does ETH inflow. In other words, users buying into a subject are also pouring in capital. Share purchases essentially serve as a signal of confidence, further reinforcing popular accounts.
